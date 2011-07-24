@@ -1,6 +1,6 @@
 # django-PedanticLogging
 
-This piece of middleware for django will save the HTML outputted in debug mode to a specified directory, even in a production environment!
+This piece of middleware for django will save the HTML outputted in debug mode to a specified directory, even in a production environment!  This piece of middleware was created in conjunction with the development of CouchConnect.com
 
 ## System Requirements
 This has been designed and tested on Django 1.2, but should be compatible with both 1.1 and 1.3.
